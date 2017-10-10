@@ -10,6 +10,8 @@ Just for fun. It's basically colors personified.
 About the GDI HTML CSS Intermediate Class, please visit: girldevelopit.github.io/gdi-featured-html-css-intermediate/#/1
 I will also try to do the other workshops and have it nested under a repo here on https://github.com/glo26
 
+Landing page is accessible here: https://glo26.github.io/GDI-html-css-intermediate/
+
 STAY TUNED FOR MORE! :)
 
 :tada:
