@@ -9,7 +9,7 @@ Just for fun. It's basically colors personified.
 
 Meet Mr. Roy G. Biv:
 
-![alt text](https://raw.githubusercontent.com/glo26/GDI-html-css-intermediate/images/path/to/G.jpg)
+![alt text](https://github.com/glo26/GDI-html-css-intermediate/blob/master/images/Roy.jpg)
 
 Hello, kids! :smile:
 
